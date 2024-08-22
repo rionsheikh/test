@@ -22,3 +22,11 @@ li:hover{
     color: #8a8a8a;
     transition: all .4s;
 }
+
+h1{
+    cursor: pointer;
+}
+p{
+    width: 70%;
+}
+
